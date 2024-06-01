@@ -1,0 +1,7 @@
+python=3.8
+pytorch=1.13.1
+CUDA Version=12.5
+opencv-python
+ultralytics
+roboflow
+pyttsx3
