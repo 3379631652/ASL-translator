@@ -12,4 +12,7 @@
 
 1. 请参照 `requirements.txt` 搭建环境
 2. 请将 `translator.py` 和 `best.pt` 放在一个目录下
-3. 如果要训练自己的模型，数据集可以通过 `train.py` 从 Roboflow 下载
+3. 如果要训练自己的模型，数据集可以通过 `train.py` 从 Roboflow 下载,并填写自己的api key
+![image](https://github.com/3379631652/ASL-translator/assets/90537351/4b7037eb-db03-4a69-b7ee-d7956d518e83)
+
+
